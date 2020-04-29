@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWOKR236\HOMEWOKR236\Source.c(10,51): error C2100:  illegal indirection
+C:\Users\com\source\repos\HOMEWOKR236\HOMEWOKR236\Source.c(22,8): warning C4047:  'function': 'int *(*)[3]' differs in levels of indirection from 'int [2][3]'
+C:\Users\com\source\repos\HOMEWOKR236\HOMEWOKR236\Source.c(22,8): warning C4024:  'Show': different types for formal and actual parameter 1
+C:\Users\com\source\repos\HOMEWOKR236\HOMEWOKR236\Source.c(25,9): warning C4047:  'function': 'int *(*)[3]' differs in levels of indirection from 'int [2][3]'
+C:\Users\com\source\repos\HOMEWOKR236\HOMEWOKR236\Source.c(25,9): warning C4024:  'Show': different types for formal and actual parameter 1
+C:\Users\com\source\repos\HOMEWOKR236\HOMEWOKR236\Source.c(28,8): warning C4047:  'function': 'int *(*)[3]' differs in levels of indirection from 'int [2][3]'
+C:\Users\com\source\repos\HOMEWOKR236\HOMEWOKR236\Source.c(28,8): warning C4024:  'Show': different types for formal and actual parameter 1

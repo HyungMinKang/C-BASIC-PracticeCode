@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\com\source\repos\2DArrayAddress\2DArrayAddress\Source.c(6,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (*)[3]'
+C:\Users\com\source\repos\2DArrayAddress\2DArrayAddress\Source.c(7,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\com\source\repos\2DArrayAddress\2DArrayAddress\Source.c(8,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\com\source\repos\2DArrayAddress\2DArrayAddress\Source.c(10,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\com\source\repos\2DArrayAddress\2DArrayAddress\Source.c(11,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\com\source\repos\2DArrayAddress\2DArrayAddress\Source.c(13,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\com\source\repos\2DArrayAddress\2DArrayAddress\Source.c(14,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  2DArrayAddress.vcxproj -> C:\Users\com\source\repos\2DArrayAddress\Debug\2DArrayAddress.exe

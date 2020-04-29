@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\Doit01-07\Doit01-07\Source.c(38): warning C4715:  'med': not all control paths return a value
+  Doit01-07.vcxproj -> C:\Users\com\source\repos\Doit01-07\Debug\Doit01-07.exe

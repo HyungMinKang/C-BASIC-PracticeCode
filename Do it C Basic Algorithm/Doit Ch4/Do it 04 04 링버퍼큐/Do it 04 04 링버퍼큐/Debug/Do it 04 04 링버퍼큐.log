@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\com\source\repos\Do it 04 04 링버퍼큐\Do it 04 04 링버퍼큐\Source.c(58,1): warning C4028:  formal parameter 1 different from declaration
+C:\Users\com\source\repos\Do it 04 04 링버퍼큐\Do it 04 04 링버퍼큐\Source.c(105,1): warning C4028:  formal parameter 1 different from declaration
+  main.c
+  Generating Code...
+C:\Users\com\source\repos\Do it 04 04 링버퍼큐\Do it 04 04 링버퍼큐\Source.c(106,9): warning C4101:  'idx': unreferenced local variable
+  Do it 04 04 링버퍼큐.vcxproj -> C:\Users\com\source\repos\Do it 04 04 링버퍼큐\Debug\Do it 04 04 링버퍼큐.exe

@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC266\BASIC266\Source.c(10,15): warning C4244:  'return': conversion from 'double' to '__int64', possible loss of data
+C:\Users\com\source\repos\BASIC266\BASIC266\Source.c(12,11): warning C4244:  'return': conversion from 'double' to '__int64', possible loss of data
+  BASIC266.vcxproj -> C:\Users\com\source\repos\BASIC266\Debug\BASIC266.exe

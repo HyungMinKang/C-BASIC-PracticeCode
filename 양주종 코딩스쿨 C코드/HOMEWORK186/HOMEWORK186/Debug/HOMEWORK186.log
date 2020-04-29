@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK186\HOMEWORK186\Source.c(10,1): error C4996:  'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h(1323): message :  see declaration of 'itoa'
+C:\Users\com\source\repos\HOMEWORK186\HOMEWORK186\Source.c(11,1): error C4996:  'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h(1323): message :  see declaration of 'itoa'
+C:\Users\com\source\repos\HOMEWORK186\HOMEWORK186\Source.c(12,1): error C4996:  'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h(1323): message :  see declaration of 'itoa'
+C:\Users\com\source\repos\HOMEWORK186\HOMEWORK186\Source.c(13,1): error C4996:  'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h(1323): message :  see declaration of 'itoa'

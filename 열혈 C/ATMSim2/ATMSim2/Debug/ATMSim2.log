@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\com\source\repos\ATMSim2\ATMSim2\Source.cpp(47,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\com\source\repos\ATMSim2\ATMSim2\Source.cpp(57,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  ATMSim2.vcxproj -> C:\Users\com\source\repos\ATMSim2\Debug\ATMSim2.exe

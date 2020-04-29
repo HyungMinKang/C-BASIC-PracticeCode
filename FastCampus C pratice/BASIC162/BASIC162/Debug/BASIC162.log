@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC162\BASIC162\Source.c(43,12): warning C4101:  'tmp': unreferenced local variable
+  BASIC162.vcxproj -> C:\Users\com\source\repos\BASIC162\Debug\BASIC162.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC332\BASIC332\Source.c(7,6): warning C4101:  'wsm': unreferenced local variable
+  BASIC332.vcxproj -> C:\Users\com\source\repos\BASIC332\Debug\BASIC332.exe

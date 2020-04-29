@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC303\BASIC303\Source.c(13): warning C4717:  'add': recursive on all control paths, function will cause runtime stack overflow
+  BASIC303.vcxproj -> C:\Users\com\source\repos\BASIC303\Debug\BASIC303.exe

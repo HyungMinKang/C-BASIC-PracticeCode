@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK155\HOMEWORK155\Source.c(10,13): warning C4098:  'swap': 'void' function returning a value
+  HOMEWORK155.vcxproj -> C:\Users\com\source\repos\HOMEWORK155\Debug\HOMEWORK155.exe

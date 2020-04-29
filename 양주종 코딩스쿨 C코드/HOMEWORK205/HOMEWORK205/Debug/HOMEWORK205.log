@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK205\HOMEWORK205\Source.c(14,10): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'char *'
+C:\Users\com\source\repos\HOMEWORK205\HOMEWORK205\Source.c(20,10): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'char *'
+  HOMEWORK205.vcxproj -> C:\Users\com\source\repos\HOMEWORK205\Debug\HOMEWORK205.exe

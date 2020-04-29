@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\Do it 02 12\Do it 02 12\Source.c(21,18): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Do it 02 12.vcxproj -> C:\Users\com\source\repos\Do it 02 12\Debug\Do it 02 12.exe

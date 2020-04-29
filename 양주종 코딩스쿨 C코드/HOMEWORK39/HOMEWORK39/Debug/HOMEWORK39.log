@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK39\HOMEWORK39\Source.c(22,6): warning C4013:  'gets' undefined; assuming extern returning int
+C:\Users\com\source\repos\HOMEWORK39\HOMEWORK39\Source.c(15,7): warning C4101:  'tmp': unreferenced local variable
+  HOMEWORK39.vcxproj -> C:\Users\com\source\repos\HOMEWORK39\Debug\HOMEWORK39.exe

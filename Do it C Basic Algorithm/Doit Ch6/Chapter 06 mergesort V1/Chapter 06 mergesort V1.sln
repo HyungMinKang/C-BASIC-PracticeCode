@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter 06 mergesort V1", "Chapter 06 mergesort V1\Chapter 06 mergesort V1.vcxproj", "{EF11DF76-EB7E-4635-8224-07FC1F701520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF11DF76-EB7E-4635-8224-07FC1F701520}.Debug|x64.ActiveCfg = Debug|x64
+		{EF11DF76-EB7E-4635-8224-07FC1F701520}.Debug|x64.Build.0 = Debug|x64
+		{EF11DF76-EB7E-4635-8224-07FC1F701520}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF11DF76-EB7E-4635-8224-07FC1F701520}.Debug|x86.Build.0 = Debug|Win32
+		{EF11DF76-EB7E-4635-8224-07FC1F701520}.Release|x64.ActiveCfg = Release|x64
+		{EF11DF76-EB7E-4635-8224-07FC1F701520}.Release|x64.Build.0 = Release|x64
+		{EF11DF76-EB7E-4635-8224-07FC1F701520}.Release|x86.ActiveCfg = Release|Win32
+		{EF11DF76-EB7E-4635-8224-07FC1F701520}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746DC7E7-2E95-4781-BAC3-A5661C7F2FA6}
+	EndGlobalSection
+EndGlobal

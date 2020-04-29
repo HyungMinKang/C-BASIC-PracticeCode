@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK149\HOMEWORK149\Source.c(6,11): warning C4098:  'sub': 'void' function returning a value
+C:\Users\com\source\repos\HOMEWORK149\HOMEWORK149\Source.c(9,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+  HOMEWORK149.vcxproj -> C:\Users\com\source\repos\HOMEWORK149\Debug\HOMEWORK149.exe

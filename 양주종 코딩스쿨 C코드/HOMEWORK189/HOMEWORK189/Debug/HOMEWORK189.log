@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK189\HOMEWORK189\Source.c(6,76): warning C4020:  'strtod': too many actual parameters
+C:\Users\com\source\repos\HOMEWORK189\HOMEWORK189\Source.c(7,75): warning C4020:  'strtod': too many actual parameters
+C:\Users\com\source\repos\HOMEWORK189\HOMEWORK189\Source.c(8,74): warning C4020:  'strtod': too many actual parameters
+C:\Users\com\source\repos\HOMEWORK189\HOMEWORK189\Source.c(9,74): warning C4020:  'strtod': too many actual parameters
+  HOMEWORK189.vcxproj -> C:\Users\com\source\repos\HOMEWORK189\Debug\HOMEWORK189.exe

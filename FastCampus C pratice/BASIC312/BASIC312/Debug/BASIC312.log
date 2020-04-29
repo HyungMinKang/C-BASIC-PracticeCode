@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC312\BASIC312\Source.c(6,11): warning C4098:  'Print': 'void' function returning a value
+C:\Users\com\source\repos\BASIC312\BASIC312\Source.c(9,19): warning C4098:  'Print': 'void' function returning a value
+C:\Users\com\source\repos\BASIC312\BASIC312\Source.c(17,11): warning C4098:  'showtriangle': 'void' function returning a value
+  BASIC312.vcxproj -> C:\Users\com\source\repos\BASIC312\Debug\BASIC312.exe

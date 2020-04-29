@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\StructArray\StructArray\Source.c(16,53): warning C4474:  'scanf_s' : too many arguments passed for format string
+C:\Users\com\source\repos\StructArray\StructArray\Source.c(16,53): message :  placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  StructArray.vcxproj -> C:\Users\com\source\repos\StructArray\Debug\StructArray.exe

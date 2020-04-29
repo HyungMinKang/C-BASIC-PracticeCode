@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReinterpretCasting", "ReinterpretCasting\ReinterpretCasting.vcxproj", "{57EBA5FA-E78E-4D65-B90D-09D8F948E1A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57EBA5FA-E78E-4D65-B90D-09D8F948E1A8}.Debug|x64.ActiveCfg = Debug|x64
+		{57EBA5FA-E78E-4D65-B90D-09D8F948E1A8}.Debug|x64.Build.0 = Debug|x64
+		{57EBA5FA-E78E-4D65-B90D-09D8F948E1A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{57EBA5FA-E78E-4D65-B90D-09D8F948E1A8}.Debug|x86.Build.0 = Debug|Win32
+		{57EBA5FA-E78E-4D65-B90D-09D8F948E1A8}.Release|x64.ActiveCfg = Release|x64
+		{57EBA5FA-E78E-4D65-B90D-09D8F948E1A8}.Release|x64.Build.0 = Release|x64
+		{57EBA5FA-E78E-4D65-B90D-09D8F948E1A8}.Release|x86.ActiveCfg = Release|Win32
+		{57EBA5FA-E78E-4D65-B90D-09D8F948E1A8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6795BDF0-4A31-4868-B7DB-5C5DC5EE4CE6}
+	EndGlobalSection
+EndGlobal

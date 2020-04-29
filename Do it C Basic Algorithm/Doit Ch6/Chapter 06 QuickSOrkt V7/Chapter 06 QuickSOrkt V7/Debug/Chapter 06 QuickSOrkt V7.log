@@ -1,0 +1,8 @@
+﻿  quick.c
+C:\Users\com\source\repos\Chapter 06 QuickSOrkt V7\Chapter 06 QuickSOrkt V7\quick.c(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Source.c
+C:\Users\com\source\repos\Chapter 06 QuickSOrkt V7\Chapter 06 QuickSOrkt V7\quick.c(64,15): warning C4013: 'med3' undefined; assuming extern returning int
+  Generating Code...
+C:\Users\com\source\repos\Chapter 06 QuickSOrkt V7\Chapter 06 QuickSOrkt V7\Source.c(40,1): warning C4028: formal parameter 1 different from declaration
+quick.obj : error LNK2019: unresolved external symbol _med3 referenced in function _Quickort
+C:\Users\com\source\repos\Chapter 06 QuickSOrkt V7\Debug\Chapter 06 QuickSOrkt V7.exe : fatal error LNK1120: 1 unresolved externals

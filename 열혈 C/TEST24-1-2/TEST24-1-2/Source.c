@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main(void)
+{
+	FILE* fp;
+	fopen_s(&fp, "mystory.txt", "at");
+
+	if (fp == NULL) {
+		puts("Ãß°¡ ÀÔ·Â½ÇÆÐ:");
+		return -1;
+	}
+	fputs("#Áñ°Ü¸Ô´Â À½½Ä: Â«»Í ÅÁ¼öÀ° \n", fp);
+	fputs("#Ãë¹Ì: Ãà±¸ \n", fp);
+
+	fclose(fp);
+	return 0;
+
+}

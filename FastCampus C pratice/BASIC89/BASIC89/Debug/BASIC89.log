@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC89\BASIC89\Source.c(6,1): warning C4047:  'initializing': 'int *' differs in levels of indirection from 'int'
+  BASIC89.vcxproj -> C:\Users\com\source\repos\BASIC89\Debug\BASIC89.exe

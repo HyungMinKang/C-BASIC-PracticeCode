@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\com\source\repos\Do it 02 26\Do it 02 26\Source.c(74,9): warning C4473:  'printf' : not enough arguments passed for format string
+C:\Users\com\source\repos\Do it 02 26\Do it 02 26\Source.c(74,9): message :  placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+C:\Users\com\source\repos\Do it 02 26\Do it 02 26\Source.c(74,9): message :  the missing variadic argument 4 is required by format string '%s'
+  Do it 02 26.vcxproj -> C:\Users\com\source\repos\Do it 02 26\Debug\Do it 02 26.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK268\HOMEWORK268\Source.c(14,10): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  HOMEWORK268.vcxproj -> C:\Users\com\source\repos\HOMEWORK268\Debug\HOMEWORK268.exe

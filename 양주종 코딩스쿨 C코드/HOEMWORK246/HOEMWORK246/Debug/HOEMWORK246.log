@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOEMWORK246\HOEMWORK246\Source.c(14,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Mt *'
+C:\Users\com\source\repos\HOEMWORK246\HOEMWORK246\Source.c(26,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Mt *'
+  HOEMWORK246.vcxproj -> C:\Users\com\source\repos\HOEMWORK246\Debug\HOEMWORK246.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC84\BASIC84\Source.c(13,9): warning C4477:  'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\com\source\repos\BASIC84\BASIC84\Source.c(6): error C1075:  '{': no matching token found

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC280\BASIC280\Source.c(23): warning C4715:  'maxi': not all control paths return a value
+  BASIC280.vcxproj -> C:\Users\com\source\repos\BASIC280\Debug\BASIC280.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK38\HOMEWORK38\Source.c(15,7): warning C4101:  'tmp': unreferenced local variable
+  HOMEWORK38.vcxproj -> C:\Users\com\source\repos\HOMEWORK38\Debug\HOMEWORK38.exe

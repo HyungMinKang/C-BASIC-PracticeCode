@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC316\BASIC316\Source.c(35,6): warning C4101:  'result': unreferenced local variable
+  BASIC316.vcxproj -> C:\Users\com\source\repos\BASIC316\Debug\BASIC316.exe

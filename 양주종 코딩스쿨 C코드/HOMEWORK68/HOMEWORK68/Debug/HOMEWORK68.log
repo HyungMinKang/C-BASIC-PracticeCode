@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK68\HOMEWORK68\Source.c(21,7): warning C4013:  'gets' undefined; assuming extern returning int
+  HOMEWORK68.vcxproj -> C:\Users\com\source\repos\HOMEWORK68\Debug\HOMEWORK68.exe

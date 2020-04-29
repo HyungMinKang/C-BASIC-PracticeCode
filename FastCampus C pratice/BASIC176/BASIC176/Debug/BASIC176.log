@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC176\BASIC176\Source.c(9,6): warning C4013:  'gets' undefined; assuming extern returning int
+C:\Users\com\source\repos\BASIC176\BASIC176\Source.c(10,18): warning C4047:  'function': 'const char *' differs in levels of indirection from 'char *[100000]'
+C:\Users\com\source\repos\BASIC176\BASIC176\Source.c(10,18): warning C4024:  'strlen': different types for formal and actual parameter 1
+  BASIC176.vcxproj -> C:\Users\com\source\repos\BASIC176\Debug\BASIC176.exe

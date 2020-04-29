@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\com\source\repos\FloatError\FloatError\Source.cpp(9,13): warning C4305:  '+=': truncation from 'double' to 'float'
+  FloatError.vcxproj -> C:\Users\com\source\repos\FloatError\Debug\FloatError.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\com\source\repos\ReThrow\ReThrow\Source.cpp(13,12): warning C4101: 'expn': unreferenced local variable
+C:\Users\com\source\repos\ReThrow\ReThrow\Source.cpp(27,13): warning C4101: 'expn': unreferenced local variable
+  ReThrow.vcxproj -> C:\Users\com\source\repos\ReThrow\Debug\ReThrow.exe

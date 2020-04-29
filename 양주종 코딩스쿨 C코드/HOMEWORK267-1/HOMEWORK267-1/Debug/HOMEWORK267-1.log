@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK267-1\HOMEWORK267-1\Source.c(15,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char (*)[5][20]'
+C:\Users\com\source\repos\HOMEWORK267-1\HOMEWORK267-1\Source.c(15,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char (*)[5][20]'
+C:\Users\com\source\repos\HOMEWORK267-1\HOMEWORK267-1\Source.c(16,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char (*)[5][20]'
+C:\Users\com\source\repos\HOMEWORK267-1\HOMEWORK267-1\Source.c(16,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char (*)[5][20]'
+C:\Users\com\source\repos\HOMEWORK267-1\HOMEWORK267-1\Source.c(18,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (*)[6][10]'
+C:\Users\com\source\repos\HOMEWORK267-1\HOMEWORK267-1\Source.c(18,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int (*)[6][10]'
+C:\Users\com\source\repos\HOMEWORK267-1\HOMEWORK267-1\Source.c(19,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (*)[6][10]'
+C:\Users\com\source\repos\HOMEWORK267-1\HOMEWORK267-1\Source.c(19,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int (*)[6][10]'
+  HOMEWORK267-1.vcxproj -> C:\Users\com\source\repos\HOMEWORK267-1\Debug\HOMEWORK267-1.exe

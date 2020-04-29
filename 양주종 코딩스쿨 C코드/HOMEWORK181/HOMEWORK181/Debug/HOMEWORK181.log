@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\com\source\repos\HOMEWORK181\HOMEWORK181\main.c(7,19): warning C4047:  '!=': 'int' differs in levels of indirection from 'void *'
+  HOMEWORK181.vcxproj -> C:\Users\com\source\repos\HOMEWORK181\Debug\HOMEWORK181.exe

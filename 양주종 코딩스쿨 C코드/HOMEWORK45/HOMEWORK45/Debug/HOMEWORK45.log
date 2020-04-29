@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK45\HOMEWORK45\Source.c(14,9): warning C4477:  'printf' : format string '%I64d' requires an argument of type '__int64', but variadic argument 1 has type 'unsigned int'
+C:\Users\com\source\repos\HOMEWORK45\HOMEWORK45\Source.c(14,9): message :  consider using '%d' in the format string
+C:\Users\com\source\repos\HOMEWORK45\HOMEWORK45\Source.c(14,9): message :  consider using '%Id' in the format string
+C:\Users\com\source\repos\HOMEWORK45\HOMEWORK45\Source.c(14,9): message :  consider using '%I32d' in the format string
+C:\Users\com\source\repos\HOMEWORK45\HOMEWORK45\Source.c(7,1): warning C4305:  'initializing': truncation from '__int64' to 'unsigned int'
+  HOMEWORK45.vcxproj -> C:\Users\com\source\repos\HOMEWORK45\Debug\HOMEWORK45.exe

@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\com\source\repos\Do it 03 08\Do it 03 08\Source.c(18,17): warning C4474:  'printf' : too many arguments passed for format string
+C:\Users\com\source\repos\Do it 03 08\Do it 03 08\Source.c(18,17): message :  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\com\source\repos\Do it 03 08\Do it 03 08\Source.c(7,9): warning C4101:  'j': unreferenced local variable
+  Do it 03 08.vcxproj -> C:\Users\com\source\repos\Do it 03 08\Debug\Do it 03 08.exe

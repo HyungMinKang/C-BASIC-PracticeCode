@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\com\source\repos\HOMEWORK258\HOMEWORK258\Source.cpp(11,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\com\source\repos\HOMEWORK258\HOMEWORK258\Source.cpp(11,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\com\source\repos\HOMEWORK258\HOMEWORK258\Source.cpp(20,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\com\source\repos\HOMEWORK258\HOMEWORK258\Source.cpp(20,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+  HOMEWORK258.vcxproj -> C:\Users\com\source\repos\HOMEWORK258\Debug\HOMEWORK258.exe

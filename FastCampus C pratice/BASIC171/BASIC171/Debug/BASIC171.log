@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC171\BASIC171\Source.c(13,9): warning C4477:  'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type '__int64 *'
+C:\Users\com\source\repos\BASIC171\BASIC171\Source.c(13,9): message :  consider using '%lld' in the format string
+C:\Users\com\source\repos\BASIC171\BASIC171\Source.c(13,9): message :  consider using '%I64d' in the format string
+  BASIC171.vcxproj -> C:\Users\com\source\repos\BASIC171\Debug\BASIC171.exe

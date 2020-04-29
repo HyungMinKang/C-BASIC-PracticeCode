@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC146\BASIC146\Source.c(6,6): warning C4013:  'gets' undefined; assuming extern returning int
+C:\Users\com\source\repos\BASIC146\BASIC146\Source.c(7,18): warning C4013:  'strlen' undefined; assuming extern returning int
+  BASIC146.vcxproj -> C:\Users\com\source\repos\BASIC146\Debug\BASIC146.exe

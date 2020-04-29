@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK30\HOMEWORK30\Source.c(9,1): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  HOMEWORK30.vcxproj -> C:\Users\com\source\repos\HOMEWORK30\Debug\HOMEWORK30.exe

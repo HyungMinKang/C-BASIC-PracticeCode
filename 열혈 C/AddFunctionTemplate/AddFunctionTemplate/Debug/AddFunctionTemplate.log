@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\com\source\repos\AddFunctionTemplate\AddFunctionTemplate\Source.cpp(14,24): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\com\source\repos\AddFunctionTemplate\AddFunctionTemplate\Source.cpp(14,24): warning C4244:         with
+C:\Users\com\source\repos\AddFunctionTemplate\AddFunctionTemplate\Source.cpp(14,24): warning C4244:         [
+C:\Users\com\source\repos\AddFunctionTemplate\AddFunctionTemplate\Source.cpp(14,24): warning C4244:             T=int
+C:\Users\com\source\repos\AddFunctionTemplate\AddFunctionTemplate\Source.cpp(14,24): warning C4244:         ]
+C:\Users\com\source\repos\AddFunctionTemplate\AddFunctionTemplate\Source.cpp(14,19): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\com\source\repos\AddFunctionTemplate\AddFunctionTemplate\Source.cpp(14,19): warning C4244:         with
+C:\Users\com\source\repos\AddFunctionTemplate\AddFunctionTemplate\Source.cpp(14,19): warning C4244:         [
+C:\Users\com\source\repos\AddFunctionTemplate\AddFunctionTemplate\Source.cpp(14,19): warning C4244:             T=int
+C:\Users\com\source\repos\AddFunctionTemplate\AddFunctionTemplate\Source.cpp(14,19): warning C4244:         ]
+  AddFunctionTemplate.vcxproj -> C:\Users\com\source\repos\AddFunctionTemplate\Debug\AddFunctionTemplate.exe

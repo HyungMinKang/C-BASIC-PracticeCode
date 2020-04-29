@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK204-2\HOMEWORK204-2\Source.c(13,13): warning C4047:  'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\com\source\repos\HOMEWORK204-2\HOMEWORK204-2\Source.c(13,13): warning C4024:  'Swap': different types for formal and actual parameter 2
+C:\Users\com\source\repos\HOMEWORK204-2\HOMEWORK204-2\Source.c(19,1): warning C4028:  formal parameter 2 different from declaration
+  HOMEWORK204-2.vcxproj -> C:\Users\com\source\repos\HOMEWORK204-2\Debug\HOMEWORK204-2.exe

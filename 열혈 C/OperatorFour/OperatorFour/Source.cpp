@@ -1,0 +1,17 @@
+#include<stdio.h>
+
+int main(void)
+{
+	int num1 = 12;
+	int num2 = 12;
+
+	printf("num1:%d \n", num1);
+	printf("num1++:%d \n", num1++); // 후위증가 선연산 후 증가
+	printf("num1:%d \n", num1);
+
+	printf("num2:%d \n", num2);
+	printf("++num2:%d \n", ++num2); // 전위증가  선증가 후 연산
+	printf("num2: %d \n", num2);
+	return 0;
+
+}

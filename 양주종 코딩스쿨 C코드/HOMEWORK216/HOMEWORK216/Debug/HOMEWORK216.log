@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK216\HOMEWORK216\Source.c(7,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\com\source\repos\HOMEWORK216\HOMEWORK216\Source.c(13,9): warning C4033:  'func2' must return a value
+C:\Users\com\source\repos\HOMEWORK216\HOMEWORK216\Source.c(16,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\com\source\repos\HOMEWORK216\HOMEWORK216\Source.c(17): warning C4716:  'func2': must return a value
+  HOMEWORK216.vcxproj -> C:\Users\com\source\repos\HOMEWORK216\Debug\HOMEWORK216.exe

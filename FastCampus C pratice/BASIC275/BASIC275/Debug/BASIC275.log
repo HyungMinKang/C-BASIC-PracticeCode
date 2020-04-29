@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC275\BASIC275\Source.c(22): warning C4715:  'mid': not all control paths return a value
+  BASIC275.vcxproj -> C:\Users\com\source\repos\BASIC275\Debug\BASIC275.exe

@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWOKR100\HOMEWOKR100\Source.c(15,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char (*)[10]'
+C:\Users\com\source\repos\HOMEWOKR100\HOMEWOKR100\Source.c(19,10): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'char *'
+  HOMEWOKR100.vcxproj -> C:\Users\com\source\repos\HOMEWOKR100\Debug\HOMEWOKR100.exe

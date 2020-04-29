@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC169\BASIC169\Source.c(16,9): warning C4477:  'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\com\source\repos\BASIC169\BASIC169\Source.c(36,9): warning C4477:  'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+  BASIC169.vcxproj -> C:\Users\com\source\repos\BASIC169\Debug\BASIC169.exe

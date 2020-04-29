@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK260\HOMEWORK260\Source.c(18,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\com\source\repos\HOMEWORK260\HOMEWORK260\Source.c(19,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\com\source\repos\HOMEWORK260\HOMEWORK260\Source.c(20,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\com\source\repos\HOMEWORK260\HOMEWORK260\Source.c(21,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\com\source\repos\HOMEWORK260\HOMEWORK260\Source.c(22,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int **'
+  HOMEWORK260.vcxproj -> C:\Users\com\source\repos\HOMEWORK260\Debug\HOMEWORK260.exe

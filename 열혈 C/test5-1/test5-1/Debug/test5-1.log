@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\com\source\repos\test5-1\test5-1\Source.cpp(8,5): warning C4552:  '<': result of expression not used
+C:\Users\com\source\repos\test5-1\test5-1\Source.cpp(9,5): warning C4552:  '<': result of expression not used
+  test5-1.vcxproj -> C:\Users\com\source\repos\test5-1\Debug\test5-1.exe

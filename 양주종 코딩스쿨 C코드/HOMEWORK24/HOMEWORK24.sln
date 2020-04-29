@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HOMEWORK24", "HOMEWORK24\HOMEWORK24.vcxproj", "{C3D6EC5F-5AC7-474C-9609-ACB1EB5D1A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3D6EC5F-5AC7-474C-9609-ACB1EB5D1A67}.Debug|x64.ActiveCfg = Debug|x64
+		{C3D6EC5F-5AC7-474C-9609-ACB1EB5D1A67}.Debug|x64.Build.0 = Debug|x64
+		{C3D6EC5F-5AC7-474C-9609-ACB1EB5D1A67}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3D6EC5F-5AC7-474C-9609-ACB1EB5D1A67}.Debug|x86.Build.0 = Debug|Win32
+		{C3D6EC5F-5AC7-474C-9609-ACB1EB5D1A67}.Release|x64.ActiveCfg = Release|x64
+		{C3D6EC5F-5AC7-474C-9609-ACB1EB5D1A67}.Release|x64.Build.0 = Release|x64
+		{C3D6EC5F-5AC7-474C-9609-ACB1EB5D1A67}.Release|x86.ActiveCfg = Release|Win32
+		{C3D6EC5F-5AC7-474C-9609-ACB1EB5D1A67}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6589AB24-F2B2-47A2-84B3-E44A0E855CCF}
+	EndGlobalSection
+EndGlobal

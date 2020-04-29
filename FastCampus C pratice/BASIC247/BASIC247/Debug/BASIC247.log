@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC247\BASIC247\Source.c(23): warning C4715:  'f': not all control paths return a value
+  BASIC247.vcxproj -> C:\Users\com\source\repos\BASIC247\Debug\BASIC247.exe

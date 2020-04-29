@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC165\BASIC165\Source.c(9,6): warning C4013:  'gets' undefined; assuming extern returning int
+  BASIC165.vcxproj -> C:\Users\com\source\repos\BASIC165\Debug\BASIC165.exe

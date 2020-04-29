@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK76\HOMEWORK76\Source.c(15,8): warning C4101:  'tmp': unreferenced local variable
+  HOMEWORK76.vcxproj -> C:\Users\com\source\repos\HOMEWORK76\Debug\HOMEWORK76.exe

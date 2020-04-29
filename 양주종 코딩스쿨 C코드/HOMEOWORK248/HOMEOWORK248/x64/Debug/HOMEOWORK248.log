@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(22,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (__cdecl *)(int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(22,9): warning C4313:  'printf': '%d' in format string conflicts with argument 1 of type 'int (__cdecl *)(int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(23,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void (__cdecl *)(int,int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(23,9): warning C4313:  'printf': '%d' in format string conflicts with argument 1 of type 'void (__cdecl *)(int,int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(27,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (__cdecl *)(int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(27,9): warning C4313:  'printf': '%d' in format string conflicts with argument 1 of type 'int (__cdecl *)(int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(27,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int (__cdecl **)(int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(27,9): warning C4313:  'printf': '%d' in format string conflicts with argument 2 of type 'int (__cdecl **)(int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(28,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void (__cdecl *)(int,int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(28,9): warning C4313:  'printf': '%d' in format string conflicts with argument 1 of type 'void (__cdecl *)(int,int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(28,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'void (__cdecl **)(int,int)'
+C:\Users\com\source\repos\HOMEOWORK248\HOMEOWORK248\Source.c(28,9): warning C4313:  'printf': '%d' in format string conflicts with argument 2 of type 'void (__cdecl **)(int,int)'
+  HOMEOWORK248.vcxproj -> C:\Users\com\source\repos\HOMEOWORK248\x64\Debug\HOMEOWORK248.exe

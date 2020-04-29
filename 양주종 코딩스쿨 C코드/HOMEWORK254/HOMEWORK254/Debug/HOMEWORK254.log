@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK254\HOMEWORK254\Source.c(9,10): warning C4101:  'b2': unreferenced local variable
+C:\Users\com\source\repos\HOMEWORK254\HOMEWORK254\Source.c(14,11): warning C4101:  'ub2': unreferenced local variable
+C:\Users\com\source\repos\HOMEWORK254\HOMEWORK254\Source.c(13,10): warning C4101:  'ub1': unreferenced local variable
+C:\Users\com\source\repos\HOMEWORK254\HOMEWORK254\Source.c(10,10): warning C4101:  'b3': unreferenced local variable
+C:\Users\com\source\repos\HOMEWORK254\HOMEWORK254\Source.c(15,11): warning C4101:  'ub3': unreferenced local variable
+C:\Users\com\source\repos\HOMEWORK254\HOMEWORK254\Source.c(11,10): warning C4101:  'b4': unreferenced local variable
+C:\Users\com\source\repos\HOMEWORK254\HOMEWORK254\Source.c(16,11): warning C4101:  'un4': unreferenced local variable
+C:\Users\com\source\repos\HOMEWORK254\HOMEWORK254\Source.c(8,9): warning C4101:  'b1': unreferenced local variable
+  HOMEWORK254.vcxproj -> C:\Users\com\source\repos\HOMEWORK254\Debug\HOMEWORK254.exe

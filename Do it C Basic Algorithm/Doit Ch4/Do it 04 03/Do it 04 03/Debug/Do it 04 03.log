@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\com\source\repos\Do it 04 03\Do it 04 03\Source.c(7,27): warning C4047:  '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\com\source\repos\Do it 04 03\Do it 04 03\Source.c(42,1): warning C4028:  formal parameter 1 different from declaration
+C:\Users\com\source\repos\Do it 04 03\Do it 04 03\Source.c(56,1): warning C4028:  formal parameter 1 different from declaration
+C:\Users\com\source\repos\Do it 04 03\Do it 04 03\Source.c(76,1): warning C4028:  formal parameter 1 different from declaration
+C:\Users\com\source\repos\Do it 04 03\Do it 04 03\Source.c(105,10): warning C4098:  'Terminate': 'void' function returning a value
+  Do it 04 03.vcxproj -> C:\Users\com\source\repos\Do it 04 03\Debug\Do it 04 03.exe

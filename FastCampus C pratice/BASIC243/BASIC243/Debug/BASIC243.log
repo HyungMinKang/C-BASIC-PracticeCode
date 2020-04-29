@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC243\BASIC243\Source.c(32,12): warning C4101:  'tmp': unreferenced local variable
+  BASIC243.vcxproj -> C:\Users\com\source\repos\BASIC243\Debug\BASIC243.exe

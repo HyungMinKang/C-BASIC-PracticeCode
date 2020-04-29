@@ -1,0 +1,18 @@
+//C언어코딩 :: 문자열 출력 puts
+
+#include <stdio.h>
+
+int main(void)
+{
+	puts("문자열 출력 *");
+	puts("puts은 문자열 출력 전용함수");
+
+	puts("입력함수 \t  출력함수");
+	puts("getchar \t  putchar");
+	puts("gets    \t  puts");
+	puts("scanf   \t  printf");
+
+	puts("대칭 관계를 잘 확인해 보세요");
+
+	return 0;
+}

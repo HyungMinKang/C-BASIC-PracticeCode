@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\Do it 02 03\Do it 02 03\Source.c(15,10): warning C4477:  'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+C:\Users\com\source\repos\Do it 02 03\Do it 02 03\Source.c(15,10): warning C4313:  'printf': '%p' in format string conflicts with argument 1 of type 'int'
+  Do it 02 03.vcxproj -> C:\Users\com\source\repos\Do it 02 03\x64\Debug\Do it 02 03.exe

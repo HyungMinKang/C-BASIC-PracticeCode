@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC308\BASIC308\Source.c(13): warning C4715:  'dd': not all control paths return a value
+  BASIC308.vcxproj -> C:\Users\com\source\repos\BASIC308\Debug\BASIC308.exe

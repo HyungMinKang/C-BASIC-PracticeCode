@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC291\BASIC291\Source.c(18,6): warning C4013:  'gets' undefined; assuming extern returning int
+C:\Users\com\source\repos\BASIC291\BASIC291\Source.c(12): warning C4716:  'mysubstr': must return a value
+  BASIC291.vcxproj -> C:\Users\com\source\repos\BASIC291\Debug\BASIC291.exe

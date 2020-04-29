@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC358\BASIC358\Source.c(11,12): warning C4101: 'k': unreferenced local variable
+C:\Users\com\source\repos\BASIC358\BASIC358\Source.c(10,20): warning C4101: 'temp': unreferenced local variable
+  BASIC358.vcxproj -> C:\Users\com\source\repos\BASIC358\Debug\BASIC358.exe

@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\com\source\repos\Challenge4-6\Challenge4-6\Source.c(93,44): warning C4477:  'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'unsigned int'
+C:\Users\com\source\repos\Challenge4-6\Challenge4-6\Source.c(93,44): message :  this argument is used by a conversion specifier
+C:\Users\com\source\repos\Challenge4-6\Challenge4-6\Source.c(93,44): warning C4477:  'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'char *'
+C:\Users\com\source\repos\Challenge4-6\Challenge4-6\Source.c(93,44): message :  this argument is used as a buffer size
+C:\Users\com\source\repos\Challenge4-6\Challenge4-6\Source.c(113,13): warning C4101:  'j': unreferenced local variable
+C:\Users\com\source\repos\Challenge4-6\Challenge4-6\Source.c(133,7): warning C4101:  'name': unreferenced local variable
+C:\Users\com\source\repos\Challenge4-6\Challenge4-6\Source.c(133,23): warning C4101:  'phone': unreferenced local variable
+  Challenge4-6.vcxproj -> C:\Users\com\source\repos\Challenge4-6\Debug\Challenge4-6.exe

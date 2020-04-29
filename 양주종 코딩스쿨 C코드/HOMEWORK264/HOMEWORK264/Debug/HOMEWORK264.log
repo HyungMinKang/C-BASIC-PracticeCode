@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK264\HOMEWORK264\Source.c(13,4): warning C4553:  '==': result of expression not used; did you intend '='?
+  HOMEWORK264.vcxproj -> C:\Users\com\source\repos\HOMEWORK264\Debug\HOMEWORK264.exe

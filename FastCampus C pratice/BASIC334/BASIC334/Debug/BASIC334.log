@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC334\BASIC334\Source.c(12,6): warning C4101:  'gd': unreferenced local variable
+  BASIC334.vcxproj -> C:\Users\com\source\repos\BASIC334\Debug\BASIC334.exe

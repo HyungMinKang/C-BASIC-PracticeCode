@@ -1,0 +1,5 @@
+﻿  ChainHash.c
+  ChainHashTest.c
+  Generating Code...
+C:\Users\com\source\repos\Chapter 11 ChainHash\Chapter 11 ChainHash\ChainHash.c(17,16): warning C4090: '=': different 'const' qualifiers
+  Chapter 11 ChainHash.vcxproj -> C:\Users\com\source\repos\Chapter 11 ChainHash\Debug\Chapter 11 ChainHash.exe

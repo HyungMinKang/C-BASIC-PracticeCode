@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK233\HOMEWORK233\Source.c(11,1): warning C4005:  'NUM1': macro redefinition
+C:\Users\com\source\repos\HOMEWORK233\HOMEWORK233\Source.c(7): message :  see previous definition of 'NUM1'
+C:\Users\com\source\repos\HOMEWORK233\HOMEWORK233\Source.c(25,1): warning C4005:  'NUM3': macro redefinition
+C:\Users\com\source\repos\HOMEWORK233\HOMEWORK233\Source.c(8): message :  see previous definition of 'NUM3'
+  HOMEWORK233.vcxproj -> C:\Users\com\source\repos\HOMEWORK233\Debug\HOMEWORK233.exe

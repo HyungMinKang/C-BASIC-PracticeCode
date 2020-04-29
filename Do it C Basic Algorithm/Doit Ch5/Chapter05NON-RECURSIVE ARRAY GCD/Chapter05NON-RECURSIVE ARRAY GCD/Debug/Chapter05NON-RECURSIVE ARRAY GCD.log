@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\Chapter05NON-RECURSIVE ARRAY GCD\Chapter05NON-RECURSIVE ARRAY GCD\Source.c(7,15): warning C4013:  'max' undefined; assuming extern returning int
+C:\Users\com\source\repos\Chapter05NON-RECURSIVE ARRAY GCD\Chapter05NON-RECURSIVE ARRAY GCD\Source.c(29): warning C4715:  'gcd_array': not all control paths return a value
+  Chapter05NON-RECURSIVE ARRAY GCD.vcxproj -> C:\Users\com\source\repos\Chapter05NON-RECURSIVE ARRAY GCD\Debug\Chapter05NON-RECURSIVE ARRAY GCD.exe

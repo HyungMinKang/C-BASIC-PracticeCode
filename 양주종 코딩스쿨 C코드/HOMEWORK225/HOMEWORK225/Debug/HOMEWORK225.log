@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK225\HOMEWORK225\Source.c(12,9): warning C4477:  'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'time_t'
+C:\Users\com\source\repos\HOMEWORK225\HOMEWORK225\Source.c(12,9): message :  consider using '%llu' in the format string
+C:\Users\com\source\repos\HOMEWORK225\HOMEWORK225\Source.c(12,9): message :  consider using '%I64u' in the format string
+  HOMEWORK225.vcxproj -> C:\Users\com\source\repos\HOMEWORK225\Debug\HOMEWORK225.exe

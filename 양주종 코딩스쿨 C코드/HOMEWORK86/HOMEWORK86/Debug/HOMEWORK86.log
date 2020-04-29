@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK86\HOMEWORK86\Source.c(18,10): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'int *'
+  HOMEWORK86.vcxproj -> C:\Users\com\source\repos\HOMEWORK86\Debug\HOMEWORK86.exe

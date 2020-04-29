@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC140\BASIC140\Source.c(9,13): warning C4244:  '=': conversion from 'double' to 'long', possible loss of data
+  BASIC140.vcxproj -> C:\Users\com\source\repos\BASIC140\Debug\BASIC140.exe

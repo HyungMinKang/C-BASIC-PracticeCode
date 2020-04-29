@@ -1,0 +1,16 @@
+﻿  Source.c
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(9,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(9,9): message :  consider using '%zd' in the format string
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(11,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(11,9): message :  consider using '%zd' in the format string
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(12,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(12,9): message :  consider using '%zd' in the format string
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(13,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(13,9): message :  consider using '%zd' in the format string
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(14,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(14,9): message :  consider using '%zd' in the format string
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(16,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(16,9): message :  consider using '%zd' in the format string
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(17,9): warning C4477:  'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\com\source\repos\HOMEWORK147\HOMEWORK147\Source.c(17,9): message :  consider using '%zd' in the format string
+  HOMEWORK147.vcxproj -> C:\Users\com\source\repos\HOMEWORK147\x64\Debug\HOMEWORK147.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\com\source\repos\POR\POR\Source.cpp(5,20): error C2440:  'initializing': cannot convert from 'int' to 'int *'
+C:\Users\com\source\repos\POR\POR\Source.cpp(5,12): message :  Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\com\source\repos\POR\POR\Source.cpp(6,23): error C2440:  'initializing': cannot convert from 'int' to 'double *'
+C:\Users\com\source\repos\POR\POR\Source.cpp(6,15): message :  Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast

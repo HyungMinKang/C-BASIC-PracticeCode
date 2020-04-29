@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC295\BASIC295\Source.c(37,11): warning C4013:  'strcpy' undefined; assuming extern returning int
+  BASIC295.vcxproj -> C:\Users\com\source\repos\BASIC295\Debug\BASIC295.exe

@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\com\source\repos\BASIC265\BASIC265\Source.c(10,15): warning C4244:  'return': conversion from 'double' to '__int64', possible loss of data
+C:\Users\com\source\repos\BASIC265\BASIC265\Source.c(12,11): warning C4244:  'return': conversion from 'double' to '__int64', possible loss of data
+  BASIC265.vcxproj -> C:\Users\com\source\repos\BASIC265\Debug\BASIC265.exe
